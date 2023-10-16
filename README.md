@@ -3,7 +3,7 @@
 
 
 **[Kona Currents, LLC](https://konacurrents.com)**
-offers downloadable software and apps for creation, collection, processing, and management of optical visual markers. An innovative text and optical search engine is included, along with an API for processing optical labels, barcodes and two-dimensional codes. These optical image and data files are downloadable for internal and external use. Apps also interact through published API's with our Cloud Computing services.
+offers downloadable software and apps for creation, collection, processing, and management of optical visual markers. We call these a Semantic Marker&trade; This incluces An innovative text and optical search engine is included, along with an API for processing optical labels, barcodes and two-dimensional codes. These optical image and data files are downloadable for internal and external use. Apps also interact through published API's with our Cloud Computing services.
 
 
 # SemanticMarker&trade; Optical Vision Marker Processing
