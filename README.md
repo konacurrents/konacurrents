@@ -1,11 +1,13 @@
-# KonaCurrents(c)[^1]
+# KonaCurrents(c)
 ![KonaCurrents](KonaCurrentsLabel.jpg)
 
-## Issues under Discussion [^2]
-[<a href="https://github.com/konacurrents/konacurrents/issues/1#issue-1221933672"><img src="IMG_3274.PNG" width="250"/></a>](IMG_3274.PNG)
+# SemanticMarker&trade;
+<img src="https://SemanticMarker.org/vision/SemanticMarkerQR.png" width="300">
 
+# Download Executable of ESP Devices with Semantic Marker Processing
+<img src="https://SemanticMarker.org/vision/M5onMicrowave.jpg" width="300">
 
-(c)2022
-[^1]: KonaCurrents, LLC since 2008
-[^2]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images
+# Request Account for Apple iPhone and Apple Watch apps
+<img src="https://SemanticMarker.org/vision/SemanticMarkeriPhoneApp.png" width="300">
+<img src="https://SemanticMarker.org/vision/watch.png" width="300">
 
