@@ -24,7 +24,7 @@ See  **[SemanticMarker.org](https://SemanticMarker.org)**
 
 # Download Executable of ESP Devices with Semantic Marker Processing
 <img src="https://SemanticMarker.org/vision/M5onMicrowave.jpg" width="300">
-![Embedded Architecture](https://semanticmarker.org/KSNetworking/KSNetworking.008.jpeg)
+<img src="https://semanticmarker.org/KSNetworking/KSNetworking.014.jpeg" width="300">
 
 [Download API and ESP Semantic marker architecture](https://KnowledgeShark.me/docs/ESP_IOT/html/index.html)
 
