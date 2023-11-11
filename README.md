@@ -22,11 +22,11 @@ dback with the environment; continual scanning will send secure internet message
 
 See  **[SemanticMarker.org](https://SemanticMarker.org)**
 
-# Semantic Marker API f
+# Semantic Marker API
 
 <a href="https://github.com/konacurrents/SemanticMarkerAPI">Semantic Marker API</a>
 
-# Download Executable of ESP Devices with Semantic Marker Processing
+## Download Executable of ESP Devices with Semantic Marker Processing
 <img src="https://SemanticMarker.org/vision/M5onMicrowave.jpg" width="300">
 <img src="https://semanticmarker.org/KSNetworking/KSNetworking.014.jpeg" width="300">
 
@@ -36,7 +36,7 @@ See  **[SemanticMarker.org](https://SemanticMarker.org)**
 
 This requies the Arduino tool to download the binary into the correct ESP M5 device, as shown in the image above (placed on a household microwave).
 
-# Request Account for Apple iPhone and Apple Watch apps
+## Request Account for Apple iPhone and Apple Watch apps
 <img src="https://SemanticMarker.org/vision/SemanticMarkeriPhoneApp.png" width="300">
 <img src="https://SemanticMarker.org/vision/WatchSM.jpg" width="300">
 
