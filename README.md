@@ -34,6 +34,8 @@ This requies the Arduino tool to download the binary into the correct ESP M5 dev
 
 # Cloud Processor for IoT and Semantic Marker Processing
 
+<a href="https://github.com/konacurrents/SemanticMarkerAPI">Semantic Marker API</a>
+
 # Request Account for Apple iPhone and Apple Watch apps
 <img src="https://SemanticMarker.org/vision/SemanticMarkeriPhoneApp.png" width="300">
 <img src="https://SemanticMarker.org/vision/WatchSM.jpg" width="300">
