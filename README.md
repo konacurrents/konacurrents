@@ -24,7 +24,7 @@ See  **[SemanticMarker.org](https://SemanticMarker.org)**
 
 # Semantic Marker API
 
-<a href="https://github.com/konacurrents/SemanticMarkerAPI">Semantic Marker API</a>
+<a href="https://github.com/konacurrents/SemanticMarkerAPI#readme">Semantic Marker API</a>
 
 ## Download Executable of ESP Devices with Semantic Marker Processing
 <img src="https://SemanticMarker.org/vision/M5onMicrowave.jpg" width="300">
