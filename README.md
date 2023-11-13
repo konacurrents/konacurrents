@@ -22,11 +22,14 @@ dback with the environment; continual scanning will send secure internet message
 
 See  **[SemanticMarker.org](https://SemanticMarker.org)**
 
-# Semantic Marker API
+# Download Semantic Marker REST API
 
-<a href="https://github.com/konacurrents/SemanticMarkerAPI#readme">Semantic Marker API</a>
+<a href="https://github.com/konacurrents/SemanticMarkerAPI#readme">Semantic Marker REST API</a>
 
-## Download Executable of ESP Devices with Semantic Marker Processing
+# Download Semantic Marker for ESP-32 Devices
+
+<a href="https://github.com/konacurrents/SemanticMarkerESP-32">Semantic Marker for ESP-32 Devices</a>
+
 <img src="https://SemanticMarker.org/vision/M5onMicrowave.jpg" width="300">
 <img src="https://semanticmarker.org/KSNetworking/KSNetworking.014.jpeg" width="300">
 
