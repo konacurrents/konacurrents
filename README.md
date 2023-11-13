@@ -36,6 +36,7 @@ See  **[SemanticMarker.org](https://SemanticMarker.org)**
 
 ### Example Semantic Marker iOS App image
 <img src="https://SemanticMarker.org/vision/SemanticMarkeriPhoneApp.png" width="300">
+
 ### Example Semantic Marker appleWatch App image
 <img src="https://SemanticMarker.org/vision/WatchSM.jpg" width="300">
 
