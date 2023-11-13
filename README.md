@@ -30,14 +30,7 @@ See  **[SemanticMarker.org](https://SemanticMarker.org)**
 
 <a href="https://github.com/konacurrents/SemanticMarkerESP-32">Semantic Marker for ESP-32 Devices</a>
 
-<img src="https://SemanticMarker.org/vision/M5onMicrowave.jpg" width="300">
-<img src="https://semanticmarker.org/KSNetworking/KSNetworking.014.jpeg" width="300">
-
 [Download API and ESP Semantic marker architecture](https://KnowledgeShark.me/docs/ESP_IOT/html/index.html)
-
-[Download ESP32 Binary supporting SemanticMarker&trade;](https://KnowledgeShark.me/docs/ESP_IOT/ESP_IOT.ino.m5stick_c_plus.bin)
-
-This requies the Arduino tool to download the binary into the correct ESP M5 device, as shown in the image above (placed on a household microwave).
 
 ## Request Account for Apple iPhone and Apple Watch apps
 <img src="https://SemanticMarker.org/vision/SemanticMarkeriPhoneApp.png" width="300">
