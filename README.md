@@ -40,7 +40,7 @@ See  **[SemanticMarker.org](https://SemanticMarker.org)**
 ### Example Semantic Marker appleWatch App image
 <img src="https://SemanticMarker.org/vision/WatchSM.jpg" width="300">
 
-### Example of the Apple TestFlight for testing (Publich release in work)
+### Example of the Apple TestFlight for testing (Public release in work)
 ![Apple TestFlight iOS Doenload with approval](https://semanticmarker.org/vision/TestFlight.png)
 
 ## To request an account following the links on the SemanticMarker.org site
