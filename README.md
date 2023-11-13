@@ -33,11 +33,14 @@ See  **[SemanticMarker.org](https://SemanticMarker.org)**
 [Download API and ESP Semantic marker architecture](https://KnowledgeShark.me/docs/ESP_IOT/html/index.html)
 
 ## Request Account for Apple iPhone and Apple Watch apps
+
+### Example Semantic Marker iOS App image
 <img src="https://SemanticMarker.org/vision/SemanticMarkeriPhoneApp.png" width="300">
+### Example Semantic Marker appleWatch App image
 <img src="https://SemanticMarker.org/vision/WatchSM.jpg" width="300">
 
-
+### Example of the Apple TestFlight for testing (Publich release in work)
 ![Apple TestFlight iOS Doenload with approval](https://semanticmarker.org/vision/TestFlight.png)
 
-
+## To request an account following the links on the SemanticMarker.org site
 [Request Account](https://SemanticMarker.org)
