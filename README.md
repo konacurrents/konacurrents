@@ -47,7 +47,7 @@ See  **[SemanticMarker.org](https://SemanticMarker.org)**
 ### ESP-32 App supporting the Semantic Marker&trade; capabilities
 
 The following shows the (small) ESP-32 M5 Device using software developed by Kona Currents, LLC, to support
-the Sematic Marker&trade; optical vision infrastructure. This is actually a continually changing Semantic Marker&trade; image
+the Semantic Marker&trade; optical vision marker infrastructure. This is actually a continually changing Semantic Marker&trade; image
 reflecting the changing sensor values. The <i>Augmented Reality</i> overlay from the iOS App would shown those changing values,
 otherwise a static web page would just show a snapshot. (Contact KonaCurrents, LLC for more information). The [download for ESP-32 devices](https://github.com/konacurrents/SemanticMarkerESP-32#readme) includes the software for what is shown in the image.
 <img src="https://SemanticMarker.org/vision/M5onMicrowave.jpg" width="300">
