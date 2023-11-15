@@ -3,11 +3,13 @@
 
 
 **[Kona Currents, LLC](https://konacurrents.com)**
-offers downloadable software and apps for creation, collection, processing, and management of optical visual markers. We call these a Semantic Marker&trade; This incluces An innovative text and optical search engine, along with an API for processing optical labels, barcodes and two-dimensional codes. These optical image and data files are downloadable for internal and external use. Apps also interact through published API's with our Cloud Computing services. 
+offers downloadable software and apps for creation, collection, processing, and management of optical visual markers. We call these a Semantic Marker&trade; This incluces An innovative text and optical search engine, along with an API for processing optical labels, barcodes and two-dimensional codes. These optical image and data files are downloadable for internal and external use. Apps also interact through published API's with our Cloud Computing services (various public download links below.)
 
 Both public and private aspects of this GitHub include downloadable software for running the Internet of Things (IoT) devices, including the new ESP-32 family of embedded processors. 
 The areas of processing include app software for ESP-32 and mobile devices (i.e. iPhone, watch, TV, etc). This also includes code for the cloud service processes. These are a mix of 
-web servers (i.e, Apache Tomcat, and Nodered), also powerful messaging capabilities (including MQTT, Websockets, HTTP, DDS, etc).
+web servers (i.e, Apache Tomcat, and Nodered), also powerful messaging capabilities (including MQTT, Websockets, HTTP, DDS, etc.)
+
+For more detail see: [Semantic Marker&trade; Web Page](https://SemanticMarker.org)
 
 
 # SemanticMarker&trade; Optical Vision Marker Processing
@@ -22,26 +24,33 @@ dback with the environment; continual scanning will send secure internet message
 
 See  **[SemanticMarker.org](https://SemanticMarker.org)**
 
-# Download Semantic Marker REST API
+# Download Semantic Marker&trade; REST API
 
-<a href="https://github.com/konacurrents/SemanticMarkerAPI#readme">Semantic Marker REST API</a>
+<a href="https://github.com/konacurrents/SemanticMarkerAPI#readme">Download Semantic Marker&trade; REST API</a>
 
-# Download Semantic Marker for ESP-32 Devices
+# Download Semantic Marker&trade; Software for ESP-32 Devices
 
-<a href="https://github.com/konacurrents/SemanticMarkerESP-32">Semantic Marker for ESP-32 Devices</a>
+<a href="https://github.com/konacurrents/SemanticMarkerESP-32">Dowload Semantic Marker&trade; software for ESP-32 Devices</a>
 
-[Download API and ESP Semantic marker architecture](https://KnowledgeShark.me/docs/ESP_IOT/html/index.html)
+[Download API and ESP Semantic Marker&trade; architecture document](https://KnowledgeShark.me/docs/ESP_IOT/html/index.html)
 
-## Request Account for Apple iPhone and Apple Watch apps
-
-### Example Semantic Marker iOS App image
+## Various Semantic Marker&trade; Aware Apps 
+### Example Semantic Marker&trade; iOS App image
 <img src="https://SemanticMarker.org/vision/SemanticMarkeriPhoneApp.png" width="300">
 
-### Example Semantic Marker appleWatch App image
+### Example Semantic Marker &trade; appleWatch App image
 <img src="https://SemanticMarker.org/vision/WatchSM.jpg" width="300">
 
 ### Example of the Apple TestFlight for testing (Public release in work)
 ![Apple TestFlight iOS Doenload with approval](https://semanticmarker.org/vision/TestFlight.png)
 
-## To request an account following the links on the SemanticMarker.org site
+### ESP-32 App supporting the Semantic Marker&trade; capabilities
+
+The following shows the (small) ESP-32 M5 Device using software developed by Kona Currents, LLC, to support
+the Sematic Marker&trade; optical vision infrastructure. This is actually a continually changing Semantic Marker&trade; image
+reflecting the changing sensor values. The <i>Augmented Reality</i> overlay from the iOS App would shown those changing values,
+otherwise a static web page would just show a snapshot. (Contact KonaCurrents, LLC for more information). The [download for ESP-32 devices](https://github.com/konacurrents/SemanticMarkerESP-32#readme) includes the software for what is shown in the image.
+<img src="https://SemanticMarker.org/vision/M5onMicrowave.jpg" width="300">
+
+## To request an account for testing or deployment, follow the links on the SemanticMarker.org site
 [Request Account](https://SemanticMarker.org)
