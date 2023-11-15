@@ -37,9 +37,14 @@ See  **[SemanticMarker.org](https://SemanticMarker.org)**
 ## Various Semantic Marker&trade; Aware Apps 
 ### Example Semantic Marker&trade; iOS App image
 <img src="https://SemanticMarker.org/vision/SemanticMarkeriPhoneApp.png" width="300">
+This app provides a multitude of capabilities centered around the Semantic Marker&trade; capabilities. This includes
+scanning a Semantic Marker&trade; and sending a message to the named dog feeding device over bluetooth.
 
 ### Example Semantic Marker &trade; appleWatch App image
 <img src="https://SemanticMarker.org/vision/WatchSM.jpg" width="300">
+Here the Semantic Marker&trade; is sent to the watch through messages. Clicking expands to show the Avatar image while hiding
+the machine readable portion of the Semantic Marker&trade;. Here our unique SMART Button framework is creating the
+Avatar image from information gathered in the secure messaging network. 
 
 ### Example of the Apple TestFlight for testing (Public release in work)
 ![Apple TestFlight iOS Doenload with approval](https://semanticmarker.org/vision/TestFlight.png)
@@ -48,9 +53,13 @@ See  **[SemanticMarker.org](https://SemanticMarker.org)**
 
 The following shows the (small) ESP-32 M5 Device using software developed by Kona Currents, LLC, to support
 the Semantic Marker&trade; optical vision marker infrastructure. This is actually a continually changing Semantic Marker&trade; image
-reflecting the changing sensor values. The <i>Augmented Reality</i> overlay from the iOS App would shown those changing values,
-otherwise a static web page would just show a snapshot. (Contact KonaCurrents, LLC for more information). The [download for ESP-32 devices](https://github.com/konacurrents/SemanticMarkerESP-32#readme) includes the software for what is shown in the image.
+reflecting the changing sensor values. The <i>Augmented Reality</i> overlay from the iOS App would show those changing values,
+otherwise a static web page would just show a snapshot. The Semantic Marker&trade; optical vision marker is unique in the amount of information
+that can be encoded in an <b>image</b>, contrasted with trying to display similar information in this small display (think of the movie <i>Matrix</i> and the moving green images.)
+
 <img src="https://SemanticMarker.org/vision/M5onMicrowave.jpg" width="300">
+The [download for ESP-32 devices](https://github.com/konacurrents/SemanticMarkerESP-32#readme) includes the software for what is shown in the image.
+
 
 ## To request an account for testing or deployment, follow the links on the SemanticMarker.org site
 [Request Account](https://SemanticMarker.org)
