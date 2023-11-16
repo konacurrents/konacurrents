@@ -58,7 +58,7 @@ otherwise a static web page would just show a snapshot. The Semantic Marker&trad
 that can be encoded in an <b>image</b>, contrasted with trying to display similar information in this small display (think of the movie <i>Matrix</i> and the moving green images.)
 
 <img src="https://SemanticMarker.org/vision/M5onMicrowave.jpg" width="300">
-The [download for ESP-32 devices](https://github.com/konacurrents/SemanticMarkerESP-32#readme) includes the software for what is shown in the image.
+The [download for ESP-32 devices](https://github.com/konacurrents/SemanticMarkerESP-32) includes the software for what is shown in the image.
 
 
 ## To request an account for testing or deployment, follow the links on the SemanticMarker.org site
