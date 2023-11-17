@@ -7,7 +7,7 @@ offers downloadable software and apps for creation, collection, processing, and 
 
 Both public and private aspects of this GitHub include downloadable software for running the Internet of Things (IoT) devices, including the new ESP-32 family of embedded processors. 
 The areas of processing include app software for ESP-32 and mobile devices (i.e. iPhone, watch, TV, etc). This also includes code for the cloud service processes. These are a mix of 
-web servers (i.e, Apache Tomcat, and Nodered), also powerful messaging capabilities (including MQTT, Websockets, HTTP, DDS, etc.)
+web servers (i.e, Apache Tomcat, and Nodered), also powerful messaging capabilities (including MQTT, Websockets, HTTP, DDS, [telegram](https://telegram.org), etc.)
 
 For more detail see: [Semantic Marker&trade; Web Page](https://SemanticMarker.org)
 
