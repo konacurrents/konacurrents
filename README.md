@@ -24,9 +24,9 @@ dback with the environment; continual scanning will send secure internet message
 
 See  **[SemanticMarker.org](https://SemanticMarker.org)**
 
-# Download Semantic Marker&trade; REST API
+# Download Semantic Marker&trade; REST & MQTT Message API
 
-<a href="https://github.com/konacurrents/SemanticMarkerAPI#readme">Download Semantic Marker&trade; REST API</a>
+<a href="https://github.com/konacurrents/SemanticMarkerAPI#readme">Download Semantic Marker&trade; REST and MQTT Message API</a>
 
 # Download Semantic Marker&trade; Software for ESP-32 Devices
 
