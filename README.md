@@ -12,7 +12,7 @@ web servers (i.e, Apache Tomcat, and Nodered), also powerful messaging capabilit
 For more detail see: [Semantic Marker&reg; Web Page](https://SemanticMarker.org)
 
 
-# SemanticMarker&reg; Optical Vision Marker Processing
+# SemanticMarker&reg; Optical Visual Marker Processing
 <img src="https://SemanticMarker.org/vision/SemanticMarkerQR.png" width="300">
 <b>Kona Currents, LLC</b> introduces a new approach for interacting with our technologically rich environment
  - such as Smart Devices and Internet of Things (IoT). Special optical visual markers, we call a <b>Semantic
@@ -20,6 +20,8 @@ Marker&reg;</b> such as two-dimensional code images and barcodes, <i>come alive<
 dback with the environment; continual scanning will send secure internet messages to IoT devices (like to the
  IoT dog feeder in video) and even show unique interactive <i>Augmented Reality</i> graphic overlays based on
  contextually and semantically relevent information (can you say <i>Minority Report</i>!).
+
+ ![Optical Visual Marker](https://SemanticMarker.org/imags/OpticalVisualMarker.png)
 
 
 See  **[SemanticMarker.org](https://SemanticMarker.org)**
@@ -52,9 +54,9 @@ Avatar image from information gathered in the secure messaging network.
 ### ESP-32 App supporting the Semantic Marker&reg; capabilities
 
 The following shows the (small) ESP-32 M5 Device using software developed by Kona Currents, LLC, to support
-the Semantic Marker&reg; optical vision marker infrastructure. This is actually a continually changing Semantic Marker&reg; image
+the Semantic Marker&reg; optical visual marker infrastructure. This is actually a continually changing Semantic Marker&reg; image
 reflecting the changing sensor values. The <i>Augmented Reality</i> overlay from the iOS App would show those changing values,
-otherwise a static web page would just show a snapshot. The Semantic Marker&reg; optical vision marker is unique in the amount of information
+otherwise a static web page would just show a snapshot. The Semantic Marker&reg; optical visual marker is unique in the amount of information
 that can be encoded in an <b>image</b>, contrasted with trying to display similar information in this small display (think of the movie <i>Matrix</i> and the moving green images.)
 
 <img src="https://SemanticMarker.org/vision/M5onMicrowave.jpg" width="300">
