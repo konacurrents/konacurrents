@@ -21,7 +21,15 @@ dback with the environment; continual scanning will send secure internet message
  IoT dog feeder in video) and even show unique interactive <i>Augmented Reality</i> graphic overlays based on
  contextually and semantically relevent information (can you say <i>Minority Report</i>!).
 
- ![Optical Visual Marker](https://SemanticMarker.org/imags/OpticalVisualMarker.png)
+ ![Optical Visual Marker](https://SemanticMarker.org/images/OpticalVisualMarker.png)
+
+ We humans (mostly) use our `Visual` skills to make sense of our environment. 
+ But we also use `Optical` tools to enhance (or even make sense) of the same visual environemnt. For example,
+ an optical telescope brings things closer for better understanding (like Planets or climbers on a wall._ 
+ Vision recognition of faces or text is also useful. The
+ advantage of a visual two-dimensional code is that special optics can now translate the
+ image into perfect information. So our vision is extended with optics
+ resulting in an Optical Visual Marker - or our `Trademarked` name: Semantic Marker&reg;
 
 
 See  **[SemanticMarker.org](https://SemanticMarker.org)**
