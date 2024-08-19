@@ -17,7 +17,7 @@ New for 2024: [Semantic Marker App in Apple App Store](https://apps.apple.com/us
 ### Private links
 
 * [ESP-32 Repository](https://github.com/konacurrents/ESP_IOT)
-* [Semantic Marker App](https://github.com/konacurrents/konacurrents/KQAvatar)
+* [Semantic Marker App](https://github.com/konacurrents/KSQRAvatar)  
 
 
 # SemanticMarker&reg; Optical Visual Marker Processing
