@@ -12,7 +12,7 @@ web servers (i.e, Apache Tomcat, and Nodered), also powerful messaging capabilit
 For more detail see: [Semantic Marker&reg; Web Page](https://SemanticMarker.org)
 and: [Kona Currents Web Page](https://konacurrents.com)
 
-New for 2024: [Semantic Marker App in Apple App Store](https://apps.apple.com/us/app/semanticmarker/id6443887496) ![SemanticMarker APP]("https://SemanticMarker.org/images/appstore.svg")
+New for 2024: [Semantic Marker App in Apple App Store](https://apps.apple.com/us/app/semanticmarker/id6443887496) ![SemanticMarker APP](https://SemanticMarker.org/images/appstore.svg)
 
 ### Private links
 
