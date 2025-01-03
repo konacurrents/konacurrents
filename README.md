@@ -20,6 +20,7 @@ New for 2024: [Semantic Marker App in Apple App Store](https://apps.apple.com/us
 * [Semantic Marker App](https://github.com/konacurrents/KSQRAvatar)  
 * [KSQRAvatar iOS App](https://github.com/konacurrents/KSQRAvatar)
 * [Node-red backend](https://github.com/konacurrents/Node-Red-Backend)
+* [3d printing](https://github.com/PetTutor/3D-Printing/tree/Patrie/Testing)
 
 # SemanticMarker&reg; Optical Visual Marker Processing
 <img src="https://SemanticMarker.org/vision/SemanticMarkerQR.png" width="300">
