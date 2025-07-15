@@ -21,6 +21,8 @@ New for 2024: [Semantic Marker App in Apple App Store](https://apps.apple.com/us
 * [KSQRAvatar iOS App](https://github.com/konacurrents/KSQRAvatar)
 * [Node-red backend](https://github.com/konacurrents/Node-Red-Backend)
 * [3d printing](https://github.com/PetTutor/3D-Printing/tree/Patrie/Testing)
+
+### Public LInks
 * [Bootstrap](https://github.com/konacurrents/ESP_M5_BOOTSTRAP/tree/main)
 * [API Manual](https://github.com/konacurrents/SemanticMarkerAPI#readme)
 
@@ -59,7 +61,7 @@ See  **[SemanticMarker.org](https://SemanticMarker.org)**
 
 ## Various Semantic Marker&reg; Aware Apps 
 ### Example Semantic Marker&reg; iOS App image
-<img src="https://SemanticMarker.org/vision/SemanticMarkeriPhoneApp.png" width="300">
+<img src="https://SemanticMarker.org/vision/SemanticMarkerApp1.jpeg" width="300">
 This app provides a multitude of capabilities centered around the Semantic Marker&reg; capabilities. This includes
 scanning a Semantic Marker&reg; and sending a message to the named dog feeding device over bluetooth.
 
@@ -69,7 +71,11 @@ Here the Semantic Marker&reg; is sent to the watch through messages. Clicking ex
 the machine readable portion of the Semantic Marker&reg;. Here our unique SMART Button framework is creating the
 Avatar image from information gathered in the secure messaging network. 
 
-### Example of the Apple TestFlight for testing (Public release in work)
+### Semantic Marker&reg; in App Store (Apple App Store)
+![Apple App Store](https://SemanticMarker.org/images/SMApp.png)
+<br>
+<a href="https://semanticmarker.org/smapp.html">Semantic Marker(R) App</a>
+
 ![Apple TestFlight iOS Doenload with approval](https://semanticmarker.org/vision/TestFlight.png)
 
 ### ESP-32 App supporting the Semantic Marker&reg; capabilities
@@ -87,3 +93,5 @@ The [download for ESP-32 devices](https://github.com/konacurrents/SemanticMarker
 
 ## To request an account for testing or deployment, follow the links on the SemanticMarker.org site
 [Request Account](https://SemanticMarker.org)
+
+* updated 7.15.25
