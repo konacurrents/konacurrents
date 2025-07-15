@@ -25,6 +25,7 @@ New for 2024: [Semantic Marker App in Apple App Store](https://apps.apple.com/us
 ### Public LInks
 * [Bootstrap](https://github.com/konacurrents/ESP_M5_BOOTSTRAP/tree/main)
 * [API Manual](https://github.com/konacurrents/SemanticMarkerAPI#readme)
+* [Open Source ESP32 based code](https://github.com/konacurrents/SemanticMarkerESP-32)
 
 
 # SemanticMarker&reg; Optical Visual Marker Processing
