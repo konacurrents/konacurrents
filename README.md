@@ -20,7 +20,6 @@ New for 2024: [Semantic Marker App in Apple App Store](https://apps.apple.com/us
 * [Semantic Marker App](https://github.com/konacurrents/KSQRAvatar)  
 * [KSQRAvatar iOS App](https://github.com/konacurrents/KSQRAvatar)
 * [Node-red backend](https://github.com/konacurrents/Node-Red-Backend)
-* [3d printing](https://github.com/PetTutor/3D-Printing/tree/Patrie/Testing)
 
 ### Public LInks
 * [Bootstrap](https://github.com/konacurrents/ESP_M5_BOOTSTRAP/tree/main)
@@ -28,6 +27,7 @@ New for 2024: [Semantic Marker App in Apple App Store](https://apps.apple.com/us
 * [Open Source ESP32 based code](https://github.com/konacurrents/SemanticMarkerESP-32)
 
 * [Simple Program for testing](https://github.com/konacurrents/M5SimpleProgram)
+* [3d printing](https://github.com/PetTutor/)
 
 
 # SemanticMarker&reg; Optical Visual Marker Processing
