@@ -29,6 +29,7 @@ New for 2024: [Semantic Marker App in Apple App Store](https://apps.apple.com/us
 * [Simple Program for testing](https://github.com/konacurrents/M5SimpleProgram)
 * [3d printing](https://github.com/PetTutor/)
 * [Dynamic QRCode Factory Factory](https://github.com/konacurrents/DynamicQRCodes)
+* [iDogWatch Android App - side load - Sep 2026](https://iDogwatch.com/android)
 
 
 # SemanticMarker&reg; Optical Visual Marker Processing
